@@ -38,12 +38,12 @@ Please refer to respective folders for code, train scripts, configs, and the REA
 
 # References
 
-| Model Name |                                   Official Code Repo                                  |
-|:----------:|:-------------------------------------------------------------------------------------:|
-|  CondInst  |      [Code](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/CondInst)       |
-| PointRend  | [Code](https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend) |
-|   BMRCNN   |       [Code](https://github.com/hustvl/BMaskR-CNN/tree/master/projects/BMaskR-CNN)    |
-|    DETR    |            [Code](https://github.com/facebookresearch/detr/tree/master/d2)            |
+
+| Model Name |                                   Official Code Repo                                  |  Pretrained Mode                                          |
+|:----------:|:-------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
+|  CondInst  |      [Code](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/CondInst)       |   [model](https://zenodo.org/record/4892520#.YLdNGqgzZPY) |
+| PointRend  | [Code](https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend) |   [model](https://zenodo.org/record/4892507#.YLdNG6gzZPY) |
+|   BMRCNN   |       [Code](https://github.com/hustvl/BMaskR-CNN/tree/master/projects/BMaskR-CNN)    |   [model](https://zenodo.org/record/4892520#.YLdNGqgzZPY) |
 
 ```bibtex
 @misc{carion2020endtoend,
